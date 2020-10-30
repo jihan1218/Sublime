@@ -19,4 +19,5 @@ Package install
   - SublimeLinter-pep8
 - GitGutter
 - FTPSync
+- Modific
 
