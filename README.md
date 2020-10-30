@@ -16,7 +16,7 @@ Package install
 - requirementstxt
 - SublimeLinter
   - SublimeLinter-pyflakes
-  - SublimeLinter-pep8
+  - SublimeLinter-pycodestyle
 - GitGutter
 - FTPSync
 - Modific
